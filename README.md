@@ -1,7 +1,7 @@
 # 2020-Projects
-This repository consist of simple projects that can be completed in 2020
+This repository consist of a list of simple projects that can be completed in 2020.
 
-Sl. No. | Projetc Title | Language | Difficulty Level | Description
+Sl. No. | Project Title | Language | Difficulty Level | Description
 --- | --- | --- | --- | ---
 01 | *Shillong clinics* | `HTML, CSS and JS` | Beginner or Novice | **Website that displays useful informaiton of different clinics in Shillong, similar to Hospital List, extra feature: allow clinics to register themselves(use google forms for input), have featured clinics (featured clinics will have a different design for them and maybe a separate page.)**
 02 | *Important contacts* | `HTML, CSS and JS` | Beginner or Novice | **Display contacts that users can call directly (108, POLICE, FIRE ETC IN SHILLONG, Childline (1098, 2502273) )**
