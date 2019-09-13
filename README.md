@@ -8,7 +8,7 @@ Sl. No. | Project Title | Language | Difficulty Level | Description| Status
 03 | *Tuition Center List* | `HTML, CSS and JS` | Beginner or Novice | **A List similar to Hospital List; this website will display Tution Centers in Shillong and other Cities (Class, subjects, cost, phone no)** | TO DO
 04 | *Learn Khasi Letters* | `Java` | Intermediate | **Learn Khasi Letters by seeing, hearing and doing (View Letters, Listen to prononciations, Write the Letters)** | TO DO
 05 | *Learn Khasi* | `Java` | Intermediate | **An app that allows people to get involve in learning Khasi Words and Sentences by asking the community and people can answer these questions (only approved answers will be displayed)** | TO DO
-06 | *Khublei* | `Java` | Beginner or Novice | **A Simple Greetings Card Maker Application** | TO DO
+06 | *Khublei* | `Java` | Beginner or Novice | **A Simple Greetings Card Maker Application** | 1. Started on 14th Sept 2019
 07 | *To be added* | `TBA` | N/A | N/A | TO DO
 08 | *To be added* | `TBA` | N/A | N/A | TO DO
 09 | *To be added* | `TBA` | N/A | N/A | TO DO
