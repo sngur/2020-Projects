@@ -9,7 +9,7 @@ Sl. No. | Project Title | Language | Difficulty Level | Description| Status
 04 | *Learn Khasi Letters* | `Java` | Intermediate | **Learn Khasi Letters by seeing, hearing and doing (View Letters, Listen to prononciations, Write the Letters)** | TO DO
 05 | *Learn Khasi* | `Java` | Intermediate | **An app that allows people to get involve in learning Khasi Words and Sentences by asking the community and people can answer these questions (only approved answers will be displayed)** | TO DO
 06 | *Khublei* | `Java` | Beginner or Novice | **A Simple Greetings Card Maker Application** | 1. Started on 14th Sept 2019
-07 | *To be added* | `TBA` | N/A | N/A | TO DO
+07 | *Khasi PL* | `TBA` | Intermediate or Advance | **The first ever open source Khasi programming language where you can write programs in Khasi. It consist of an interpreter that interprets khasi programming statements, identify tokens, and executes code. This is not an original idea, there has been rumours before that a khasi programming language exist but we don't think it's open source, you can use this language for educational purpose and try it out.** | TO DO
 08 | *To be added* | `TBA` | N/A | N/A | TO DO
 09 | *To be added* | `TBA` | N/A | N/A | TO DO
 10 | *To be added* | `TBA` | N/A | N/A | TO DO
